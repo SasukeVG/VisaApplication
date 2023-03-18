@@ -13,7 +13,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-
 # Указываем учетные данные для авторизации на сайте/
 LOGIN_URL = 'https://atlas.my.salesforce-sites.com/'
 USERNAME = 'yadanbryvko@gmail.com'
